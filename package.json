@@ -1,0 +1,22 @@
+{
+  "name": "jquery-boiler-code",
+  "version": "1.0.0",
+  "description": "It contains the starter code to run jQuery code quickly",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jQuery",
+    "bolierCode"
+  ],
+  "author": "monis01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monis01/boiler-code/issues"
+  },
+  "homepage": "https://github.com/monis01/boiler-code#readme",
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  }
+}
