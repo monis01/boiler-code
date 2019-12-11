@@ -13,6 +13,7 @@
  - Node
  - Express/Hapi
  - Typescript
+ - Ag-grid-enterprise (ANgular2)
 
 License
 ----
