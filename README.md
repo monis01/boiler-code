@@ -10,8 +10,12 @@
  - Bootstrap
  - AngularJS
  - Angular
+ - React
+ - Vuejs
  - Node
- - Express/Hapi
+ - Express
+ - Hapi
+ - NestJS
  - Typescript
 
 License
